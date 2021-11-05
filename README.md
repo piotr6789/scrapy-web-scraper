@@ -7,9 +7,9 @@
 ## Usage
 Commands have to be run in basicscrape directory
 
-- run main script with json output:
+- main script with json output:
 `scrapy crawl posts -o result.json`
 
-- run default scrapy shell:
+- default scrapy shell:
 `scrapy shell 'url'`
 
